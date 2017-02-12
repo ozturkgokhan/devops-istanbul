@@ -14,7 +14,7 @@ I am sure most of us has some tools and techniques to keep the lights on even in
 
 My intend is not to deep dive into what it is, since it has been already stated by Neal Ford at his article “Build Your Own Technology Radar”. Makes sense to me, not just because it is a practical way of keeping the lights on, also I always have found the insights of Thoughtworks as valuable. As it is stated at the article; a technology radar is a living document to assess the risks and rewards of existing and nascent technologies. I've come to believe you need two radars: one for yourself, to help guide your career decisions, and one for your company, to help restore sanity to purchasing decisions and technology direction. If you intend to implement your own techradar, the software is shared at github as a starting point. I have already started implementing one for my department as well as myself.
 
-> "Techradar is not a way of how to evaluate things you put on the radar, it helps what to evaluate under current circumstances" 
+> "## Techradar is not a way of how to evaluate things you put on the radar, it helps what to evaluate under current circumstances" 
 
 With a software or not, it is really important to evaluate and consider the changing landscapes regularly. It seems to me that keeping the lights on is not a way of how to evaluate things you put on your own radar, it helps what to evaluate under current circumstances. Answer to question “How?” is another topic that I plan to share at another article based on my experiences, later.
 
