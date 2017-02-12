@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd NOT want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gökhan. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- a loyal husband (not married yet but hope some day with my beautiful girlfriend)
+- have a great daughter 
+- hardworker, busy most of the time when i don't see my daughter and gf
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I am trying to live on today, not at the past nor in the future. 
