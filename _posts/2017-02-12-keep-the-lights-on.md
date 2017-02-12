@@ -18,4 +18,4 @@ My intend is not to deep dive into what it is, since it has been already stated 
 
 With a software or not, it is really important to evaluate and consider the changing landscapes regularly. It seems to me that keeping the lights on is not a way of how to evaluate things you put on your own radar, it helps what to evaluate under current circumstances. Answer to question “How?” is another topic that I plan to share at another article based on my experiences, later.
 
-** _The company and project names portrayed and stated as "Super Dupa Big Brother Inc." and "Project Tiny Miny Space 2050" in this article are fictitious. No identification with those company and project name is intended or should be inferred._
+_The company and project names portrayed and stated as "Super Dupa Big Brother Inc." and "Project Tiny Miny Space 2050" in this article are fictitious. No identification with those company and project name is intended or should be inferred._
