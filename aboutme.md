@@ -15,7 +15,7 @@ I have extensive experience of coming up with software solutions designed to mee
 ### areas of experience
 •	Leadership, communication, people management, cross-teams management,
 •	Implementation of functional & non-functional testing strategies,
-•	Test automation platform and framework design & development,
+•	Test automation platform , framework design & development,
 •	Large scale software distribution, 
 •	Billing, CRM, IPTV and OTT platforms development and integration,
 •	Cloud based computing, Amazon AWS
@@ -23,8 +23,6 @@ I have extensive experience of coming up with software solutions designed to mee
 •	Object Oriented analysis & design
 
 I have created this github blog to share my everyday ideas, experience and findings. 
-
-Don’t hesitate to drop any thoughts in the comment section below posts. Promise, I’ll answer to each of them!
 
 ### famous quote
 
